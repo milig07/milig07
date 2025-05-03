@@ -26,7 +26,7 @@
 - 🌱 Learning **System Design**, **Databases**, and **Scalable Architecture**  
 - 🧠 Practicing **Data Structures & Algorithms** regularly  
 - 🖋️ **Author of a Non-Fiction Book** — recognized as the **Youngest Non-Fiction Author**  
-- 🌍 **Genius World Record Holder** for youngest non-fiction book writer  
+- 🌍 **The World Record Holder** for youngest non-fiction book writer  
 - 🚀 Focused on writing **clean, efficient, and secure code**
 
 <p align="center">
