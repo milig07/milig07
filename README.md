@@ -3,14 +3,14 @@
 <h1 align="center">Hey there, I'm <span style="color:#007acc;">Mili Gupta</span> 👋</h1>
 
 <p align="center">
-  <b>🖥️ Backend Developer • 🧠 Problem Solver • 💻 Tech Explorer</b><br/>
+  <b>🖥️ Backend Developer • 🧠 Problem Solver • ✍️ Author • 🌟 Record Holder</b><br/>
   <i>Designing scalable APIs and reliable server-side systems.</i>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Backend+Developer;REST+API+Builder;Database+Designer;Full+Stack+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Backend+Developer;REST+API+Builder;Database+Designer;Book+Author;Full+Stack+Learner" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,6 +22,8 @@
 
 ### 👩‍💻 About Me
 
+- ✍️ Author of a **non-fiction book**  
+- 🏅 **Genius World Record** holder for being the **youngest non-fiction book writer**  
 - 🔭 Currently building **Backend Systems** and **RESTful APIs**  
 - 🌱 Learning **System Design**, **Databases**, and **Scalable Architecture**  
 - 🧠 Practicing **Data Structures & Algorithms** regularly  
