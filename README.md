@@ -30,9 +30,9 @@
 - 🚀 Focused on writing **clean, efficient, and secure code**
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5622AQEdoBVhVB_Cbw/feedshare-shrink_1280/feedshare-shrink_1280/0/1724849672201?e=1749081600&amp;v=beta&amp;t=6cJ_h5m579Gvoa_ZrxBjWwHZCKqSbKmsc_8sdIXU5M0" alt="Mili Gupta Genius World Record" width="500"/>
+  <img src="https://media.licdn.com/dms/image/v2/D5622AQEdoBVhVB_Cbw/feedshare-shrink_1280/feedshare-shrink_1280/0/1724849672201?e=1749081600&amp;v=beta&amp;t=6cJ_h5m579Gvoa_ZrxBjWwHZCKqSbKmsc_8sdIXU5M0" alt="Mili Gupta the World Record for youngest non-fiction book writer" width="500"/>
   <br/>
-  <i>🏆 I recieved the Genius World Record certificate</i>
+  <i>🏆 I recieved the World Record for youngest non-fiction book writer</i>
 </p>
 
 ---
